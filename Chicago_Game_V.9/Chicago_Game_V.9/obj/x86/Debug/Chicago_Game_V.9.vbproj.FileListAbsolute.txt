@@ -1,0 +1,13 @@
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\bin\Debug\Chicago_Game_V.9.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\bin\Debug\Chicago_Game_V.9.pdb
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\bin\Debug\Chicago_Game_V.9.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\ResolveAssemblyReference.cache
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V._9.Resources.resources
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\GenerateResource.read.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\GenerateResource.write.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V.9.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V.9.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V.9.pdb
+F:\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V.9.exe
+F:\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V.9.xml
+F:\Projects\Chicago_Game_V.9\Chicago_Game_V.9\obj\x86\Debug\Chicago_Game_V.9.pdb

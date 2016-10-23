@@ -1,0 +1,16 @@
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\LoginSystemTest\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\Chicago_Game_V.5\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\Chicago_Game_V.5\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+\\evans\homefolder$\82140\Visual Studio 2010\Projects\Chicago_Game_V.5\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+F:\Projects\Chicago_Game_V.5\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+F:\Projects\Chicago_Game_V.5\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+F:\Projects\Chicago_Game_V.5\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

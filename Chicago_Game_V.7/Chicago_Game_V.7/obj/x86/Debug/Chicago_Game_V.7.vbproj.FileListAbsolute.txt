@@ -1,0 +1,18 @@
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\bin\Debug\Chicago_Game_V.7.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\bin\Debug\Chicago_Game_V.7.pdb
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\bin\Debug\Chicago_Game_V.7.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\ResolveAssemblyReference.cache
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V._7.Resources.resources
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\GenerateResource.read.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\GenerateResource.write.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.pdb
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.exe
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.xml
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.pdb
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\bin\Debug\Chicago_Game_V.7.exe
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\bin\Debug\Chicago_Game_V.7.pdb
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\bin\Debug\Chicago_Game_V.7.xml
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V._7.Resources.resources
+F:\Projects\Chicago_Game_V.7\Chicago_Game_V.7\obj\x86\Debug\Chicago_Game_V.7.vbproj.GenerateResource.Cache
