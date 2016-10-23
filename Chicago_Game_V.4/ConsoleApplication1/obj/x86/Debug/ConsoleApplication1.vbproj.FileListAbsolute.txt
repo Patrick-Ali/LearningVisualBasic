@@ -1,0 +1,10 @@
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V.4\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
