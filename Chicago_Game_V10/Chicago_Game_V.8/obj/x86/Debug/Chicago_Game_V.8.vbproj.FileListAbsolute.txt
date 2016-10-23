@@ -1,0 +1,31 @@
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.pdb
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\ResolveAssemblyReference.cache
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V._9.Resources.resources
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\GenerateResource.read.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\GenerateResource.write.1.tlog
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.exe
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.xml
+\\evans\homefolder$\82140\visual studio 2010\Projects\Chicago_Game_V9\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.pdb
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.exe
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.xml
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.pdb
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.exe
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.pdb
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.xml
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V._9.Resources.resources
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.exe
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.xml
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.pdb
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.exe
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.pdb
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\bin\Debug\Chicago_Game_V.8.xml
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V._9.Resources.resources
+F:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.vbproj.GenerateResource.Cache
+D:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.exe
+D:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.xml
+D:\Chicago_Game\Projects\Chicago_Game_V10\Chicago_Game_V.8\obj\x86\Debug\Chicago_Game_V.8.pdb
